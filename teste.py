@@ -1,3 +1,3 @@
 a =["To testando"]
 print(a)
-b= a.split(" ")
+b= a.split("e")
